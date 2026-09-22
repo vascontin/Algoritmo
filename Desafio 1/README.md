@@ -1,10 +1,10 @@
-Desafio 1
-Aluno: Davi Vascontin
+#Desafio 1
+#Aluno: Davi Vascontin
  
-Objetivo
+#Objetivo
 Desenvolver um código pelo VisuAlg sobre um Sistema de Gerenciamento de Campeonato de E-Sports, contendo: Código, Funcionamento, Domínio do Código.
  
-Arquivos
+#Arquivos
 - codigo.alg
 - vídeo explicativo
 - 
