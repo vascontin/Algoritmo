@@ -8,5 +8,5 @@ Desenvolver um código pelo Visualg sobre um Sistema de Gerenciamento de Campeon
  
 ## Arquivos
 - Codigo.alg
-- Vídeo explicativo
+- Link Vídeo explicativo
 - Desafio 1 pdf
