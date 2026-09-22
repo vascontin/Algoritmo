@@ -7,6 +7,6 @@ Davi Vascontin
 Desenvolver um código pelo Visualg sobre um Sistema de Gerenciamento de Campeonato de E-Sports, contendo: Código, Funcionamento e Domínio do Código.
  
 ## Arquivos
-- codigo.alg
-- vídeo explicativo
-- [Arquivo do Desafio 1](Desafio_1_Algoritmo_Tema_
+- Codigo.alg
+- Vídeo explicativo
+- Desafio 1 pdf
